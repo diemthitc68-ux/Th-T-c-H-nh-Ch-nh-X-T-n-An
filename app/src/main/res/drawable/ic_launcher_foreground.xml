@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Base Folder / Document Container -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M31,37 C31,34.8 32.8,33 35,33 L47,33 L52,38 L73,38 C75.2,38 77,39.8 77,42 L77,73 C77,75.2 75.2,77 73,77 L35,77 C32.8,77 31,75.2 31,73 Z" />
+    
+    <!-- Inner folder paper accent -->
+    <path
+        android:fillColor="#FFF4E6"
+        android:pathData="M37,44 L71,44 L71,71 L37,71 Z" />
+    
+    <!-- Star Emblem in center -->
+    <path
+        android:fillColor="#FF7A00"
+        android:pathData="M54,47 L56.2,53.8 L63.4,53.8 L57.6,58 L59.8,64.8 L54,60.6 L48.2,64.8 L50.4,58 L44.6,53.8 L51.8,53.8 Z" />
+
+    <!-- Checkmark Badge on bottom right -->
+    <path
+        android:fillColor="#2A9D8F"
+        android:pathData="M70,64m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M66.5,64 L68.5,66 L73.5,61 L74.5,62 L68.5,68 L65.5,65 Z" />
+</vector>

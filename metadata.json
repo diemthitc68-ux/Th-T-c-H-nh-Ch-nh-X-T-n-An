@@ -1,0 +1,6 @@
+{
+  "name": "Cổng dịch vụ công xã Tân An",
+  "description": "Ứng dụng Cổng dịch vụ công trực tuyến xã Tân An dành cho công dân: tra cứu hồ sơ, nộp thủ tục hành chính, thanh toán trực tuyến, phản ánh kiến nghị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
